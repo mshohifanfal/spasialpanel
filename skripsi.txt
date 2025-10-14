@@ -1,6 +1,8 @@
 ** bab 1
 
 ** bab 2
+fdi: 
+
 
 ** bab 3 
 
@@ -12,6 +14,8 @@
 
 Andreadi, Suhaidar, & Anggita, W. (2021). Pengaruh Foreign Direct Investment, Domestic Investment, Dan Belt And Road Initiative Terhadap Gross Domestic Product Indonesia. Indonesian Journal of Accounting and Business, 4(2), 52–66. https://doi.org/10.33019/ijab.v4i2.50
 
+Afifah, A. P., Firmansyah, F., Riska, N., Utami, T., Albars, M. D., & Prasetyo, M. D. (2023). The impact of unemployment and poverty on economic growth in the city of Palembang. Indonesian Journal of Multidisciplinary Sciences (IJOMS), 2(1), 137–147. https://doi.org/10.59066/ijoms.v2i1.319
+
 Belotti, F., Hughes, G., & Mortari, A. P. (2017). Spatial panel-data models using Stata. The Stata Journal, 17(1), 139–180.
 
 Blanc-Brude, F., Cookson, G., Piesse, J., & Strange, R. (2014). The FDI location decision: Distance and the effects of spatial dependence. International Business Review, 23(4), 797–810. https://doi.org/10.1016/j.ibusrev.2013.12.002
@@ -20,9 +24,13 @@ Chidlow, A., Salciuviene, L., & Young, S. (2009). Regional determinants of inwar
 
 De Hoyos, R. E., & Sarafidis, V. (2006). Testing for cross-sectional dependence in panel-data models. The Stata Journal, 6(4), 482–491.
 
+Engelica, H., Wulansari, A. R., Muthoharoh, F., Azzahra, F. F., Istiqomah, N., & Cantikasari, S. (2025). The impact of foreign direct investment on economic growth in Indonesia: A case study using secondary data from 1995 to 2023. Journal of Economic Resilience and Sustainable Development, 2(1), 15–29. https://doi.org/10.61511/ersud.v2i1.2025.1400
+
 Fazaalloh, A. M. (2024). FDI and economic growth in Indonesia: a provincial and sectoral analysis. Journal of Economic Structures, 13(3). https://doi.org/10.1186/s40008-023-00323-w
 
 Hanifah, U., Septiani, Y., & Panjawa, J. L. (2023). Pengaruh Pendidikan Terhadap Pertumbuhan Ekonomi di Indonesia Tahun 2015-2021. Webinar dan Call for Paper Fakultas Ekonomi Universitas Tidar 2023.
+
+Hidayat, N., Ilahi, L. K., Najiatun, & Arifah, H. K. N. (2024). Analysis of economic growth at poverty level with meta-analysis. MediaTrend, 19(1), 73–92. https://doi.org/10.21107/mediatrend.v19i1.19075
 
 Maulana, A., Fasa, M. I., & Suharto. (2022). Pengaruh Tingkat Kemiskinan Terhadap Pertumbuhan Ekonomi dalam Perspektif Islam. Jurnal Bina Bangsa Ekonomika, 15(1), 220–229. https://doi.org/10.46306/jbbe.v15i1.142
 
