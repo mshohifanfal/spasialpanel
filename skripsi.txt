@@ -1,0 +1,19 @@
+** bab 1
+
+** bab 2
+
+** bab 3 
+
+** bab 4
+
+** bab 5
+
+** daftar pustaka
+
+Andreadi, Suhaidar, & Anggita, W. (2021). Pengaruh Foreign Direct Investment, Domestic Investment, Dan Belt And Road Initiative Terhadap Gross Domestic Product Indonesia. Indonesian Journal of Accounting and Business, 4(2), 52–66. https://doi.org/10.33019/ijab.v4i2.50
+Belotti, F., Hughes, G., & Mortari, A. P. (2017). Spatial panel-data models using Stata. The Stata Journal, 17(1), 139–180.
+Blanc-Brude, F., Cookson, G., Piesse, J., & Strange, R. (2014). The FDI location decision: Distance and the effects of spatial dependence. International Business Review, 23(4), 797–810. https://doi.org/10.1016/j.ibusrev.2013.12.002
+Chidlow, A., Salciuviene, L., & Young, S. (2009). Regional determinants of inward FDI distribution in Poland. International Business Review, 18(2), 119–133 . https://doi.org/10.1016/j.ibusrev.2009.02.004
+Maulana, A., Fasa, M. I., & Suharto. (2022). Pengaruh Tingkat Kemiskinan Terhadap Pertumbuhan Ekonomi dalam Perspektif Islam. Jurnal Bina Bangsa Ekonomika, 15(1), 220–229. https://doi.org/10.46306/jbbe.v15i1.142
+Raschky, P. A. (2017). Lecture 3: Spatial Analysis with Stata. University of St Gallen.
+Saputri, D. T., & Pratama, A. A. (2021). Spatial Panel Data Approach on Environmental Quality in Indonesia. The 1st International Conference on Data Science and Official Statistics (ICDSOS).
